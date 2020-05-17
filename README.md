@@ -1,3 +1,2 @@
-
-While using ths mnist notebook put all the images in a folder as MNIST_data.
-while using the tensor flow estimator notebook use iris data set.
+Shown the basic working of tensorflow using iris data set.
+Working with MNIST data set.
